@@ -33,7 +33,8 @@ if (empty(getenv("DATABASE_URL"))){
 
 ec2-34-197-188-147.compute-1.amazonaws.com
 
-;port=5432;user=bvztajjyxcwfgb;password=95afa25f8872b3a2bf6cd1f19c1e74a4148450363e9bcecdc61a254a208ed85e;dbname=d4s6q2430j68ed",
+
+;port=5432;user=ftbrqmbjzdokhz;password=5d4ba19be2d4ae184872f97936af42e95be0230e2211ea5a7de7104fa7417cca;dbname=d207o5vn0kgdns",
         $db["host"],
         $db["port"],
         $db["user"],
