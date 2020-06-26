@@ -54,16 +54,16 @@
         </div>
         <div class="tensp">
             <div class="tensp1">
-                <p>SHURIKEN ROBOT T-Shirt </p>
+                <p>Skateboard</p>
             </div>
             <div class="tensp1">
                 <p> Angel Backpack </p>
             </div>
             <div class="tensp1">
-                <p>Space Program Astro Backpack </p>
+                <p>Roller skates</p>
             </div>
             <div class="tensp1">
-                <p>UNICORN HOODIE </p>
+                <p>Roller skates </p>
             </div>
         </div>
         <div class="giasp">
